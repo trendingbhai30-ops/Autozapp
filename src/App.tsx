@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 
 const WhatsAppLink = "https://wa.me/917069703963";
